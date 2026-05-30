@@ -43,7 +43,7 @@ from norms.prior_anchored_adaptive_hybrid_normalization import AdaptiveHybridNor
 # =============================
 @dataclass
 class Config:
-    base_dir: str = "./PA-AHN"
+    base_dir: str = "./runs"
 
     # dataset_name: str = "cifar10"       # options: cifar10
     # num_classes: int = 10               # options: cifar10
