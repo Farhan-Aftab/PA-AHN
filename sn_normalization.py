@@ -41,7 +41,7 @@ from norms.switchable_norm import SwitchableNorm2d
 # =============================
 @dataclass
 class Config:
-    base_dir: str = "/home/seecs/farhan/AHN_Thesis"
+    base_dir: str = "./PA-AHN"
 
     dataset_name: str = "cifar10"
     num_classes: int = 10
