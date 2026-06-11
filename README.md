@@ -58,7 +58,7 @@ The datasets are automatically downloaded through `torchvision` when the trainin
 Example command:
 
 ```bash
-python pa_ahn_normalization.py
+python pa_ahn_normalization_toggle.py
 ```
 
 The configuration inside the script can be modified to select:
