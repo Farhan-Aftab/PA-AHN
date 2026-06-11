@@ -56,7 +56,7 @@ from typing import Optional
 # ------------------------------------------------------------
 # Keep thesis project path unchanged
 # ------------------------------------------------------------
-BASE_DIR = "/home/seecs/farhan/AHN_Thesis"
+BASE_DIR = ".run/"
 sys.path.append(BASE_DIR)
 
 # PA-AHN imports
